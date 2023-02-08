@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  button.full-width {
+    width: 100%;
+  }
+}
+
+Form:hover {
+  background-color: rgb(189, 221, 232);
+
+  transition: background-color 0.6s ease;
+}
+
+Form {
+  box-shadow: 5px 5px 5px 5px lightblue;
+}
